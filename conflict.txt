@@ -1,1 +1,4 @@
+
 Version aus REPO KONF_otherRepo
+Version from repo KONF_Self-Study-D
+
